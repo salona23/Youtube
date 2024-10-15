@@ -6,4 +6,8 @@ export const USER_ICON = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANYAAACU
 
 const GOOGLE_API_KEY = "AIzaSyDNhniXojHk6YMPvAKyY5vdHCftLJH2Q5c";
 
-export const YOUTUBE_VIDEO_API = "https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&chart=mostPopular&regionCode=US&maxResults=50&key="+GOOGLE_API_KEY;
+export const YOUTUBE_VIDEO_API = "https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&chart=mostPopular&regionCode=AU&maxResults=50&key="+GOOGLE_API_KEY;
+
+export const YOUTUBE_SEARCH_API = "http://suggestqueries.google.com/complete/search?client=firefox&ds=yt&q=";
+
+export const LIVE_CHAT_COUNT = 25;

@@ -7,3 +7,8 @@ YouTube
         - Video Card
 
 -Watch Video
+
+
+-fc
+-db
+-nc
